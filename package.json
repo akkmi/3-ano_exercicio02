@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "grunt": "grunt",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,7 +19,7 @@
   },
   "homepage": "https://github.com/akkmi/3-ano_exercicio02#readme",
   "devDependencies": {
+    "grunt": "1.6.1",
     "sass": "^1.83.4"
   }
 }
- 
